@@ -1,3 +1,4 @@
+-- ejercios deñl 38 al 40
 -- debemos acompañarla con frome
 -- Muy importante usar el WHERE
 -- podemos usar diversas condiciones, como borrar >,and, or, etc.

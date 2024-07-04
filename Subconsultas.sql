@@ -1,6 +1,12 @@
--- sitaxis
+-- sintaxis
 -- select <lista de campos> from <tablas> where condiciones>
+-- un SELECT dentro de SELECT, puede ser colocado en la lista de campos, tambien en las tablas y en las condiciones "where"
 
+/*
+Select <lista de campos>
+from <tablas>
+where <condiciones>
+*/
 
 SELECT p.prod_Id,
 			p.Prod_Descripcion,

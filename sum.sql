@@ -1,0 +1,1 @@
+SELECT SUM(v.ventas_total) AS total FROM ventas v
